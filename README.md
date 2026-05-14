@@ -26,8 +26,8 @@ I am fullstack Applied AI Engineer with over 2 years of experience in building p
 3) Self-Healing Automation Pipeline — Designed a fallback system where a vision LLM takes a viewport snapshot and identifies bottlenecks (shifted buttons, hidden CAPTCHAs, rotating element IDs) only when primary Playwright selectors fail — keeping 300-transaction batches under 12 minutes without sacrificing reliability.
 
 ## 📫 Let's Connect
-🌐 linkedin.com/in/shejal28
-📧 shejshankar@gmail.com
+🌐 linkedin.com/in/shejal28 \n
+📧 shejshankar@gmail.com \n
 📍 Bay Area, CA  
 
 "*Most often it's not the LLM itself — it's how you design the systems and workflows around it.*"
