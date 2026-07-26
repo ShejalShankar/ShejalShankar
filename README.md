@@ -5,7 +5,7 @@ I am fullstack Applied AI Engineer with over 2 years of experience in building p
 * AI Agents & Pipelines — multi-agent systems, LLM-driven automation, agentic workflows that replace manual processes
 * Browser Automation — production-grade bots on legacy enterprise portals (Applied Epic, insurance carrier systems)
 * RAG Systems — retrieval pipelines with real-world evaluation metrics, not just toy examples
-* Real-Time Voice AI — WebSocket-based audio streaming, OpenAI Realtime API integration
+* Voice AI infrastructure— WebSocket-based audio streaming, vloce cloning, callback feature for voicemail delivery, STT and TTS
 * Full-Stack Products — React, Next.js, Node.js, Python, TypeScript, end to end
 
  ## 🔨 Featured Projects
