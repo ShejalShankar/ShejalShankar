@@ -1,5 +1,5 @@
 # 👋 Hi, I am Shejal
-I am fullstack Applied AI Engineer with over 2 years of experience in building production AI systems at early-stage startups. I don't just build things that work in demos but those that hold up when real customers depend on them every day.
+A Full-stack AI Systems Engineer with 2+ years of experience building production AI systems at early-stage startups. I enjoy designing and shipping reliable AI applications, from backend infrastructure and agent orchestration to user-facing experiences that real customers depend on every day.
 
 ## Accomplishments
 * AI Agents & Pipelines — multi-agent systems, LLM-driven automation, agentic workflows that replace manual processes
