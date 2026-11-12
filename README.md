@@ -1,35 +1,72 @@
-# 👋 Hi, I am Shejal
-I'm a Software & AI Systems Engineer based in the San Francisco Bay Area, with a Master's in Computer Science from The George Washington University. My interests span machine learning, deep learning, computer vision, and intelligent systems. I've explored these areas through projects in medical imaging, retrieval-based AI, and multi-agent applications.
-At present, I work at Alix, an early-stage startup, building a autonomous AI system—from backend services and agent orchestration to reliable automation and user-facing workflows.
-I'm particularly interested in how intelligent systems can move beyond processing information to perceiving, reasoning about, and interacting with the physical world.
+# 👋 Hi, I'm Shejal!
+I'm a **Software & AI Systems Engineer** based in the San Francisco Bay Area, with a **Master's in Computer Science from The George Washington University**.
+My interests span **machine learning, deep learning, computer vision, and intelligent systems**. I've explored these areas through projects in medical imaging, retrieval-based AI, and multi-agent applications.
+At present, I work at **Alix**, an early-stage startup, building a autonomous AI system, from backend services and agent orchestration to reliable automation and user-facing workflows.
+I'm particularly interested in how intelligent systems can move beyond processing information to **perceiving, reasoning about, and interacting with the physical world**.
 
-## Accomplishments
-* AI Agents & Pipelines — multi-agent systems, LLM-driven automation, agentic workflows that replace manual processes
-* Browser Automation — production-grade bots on legacy enterprise portals (Applied Epic, insurance carrier systems)
-* RAG Systems — retrieval pipelines with real-world evaluation metrics, not just toy examples
-* Voice AI infrastructure— WebSocket-based audio streaming, vloce cloning, callback feature for voicemail delivery, STT and TTS
-* Full-Stack Products — React, Next.js, Node.js, Python, TypeScript, end to end
+## 🧠 Machine Learning, Deep Learning & Computer Vision
 
- ## 🔨 Featured Projects
+### 🔬 [Brain Tumor Detection — YOLO & Super-Resolution GANs](https://github.com/ShejalShankar/BrainTumor_Detection)
+
+A medical imaging project investigating whether super-resolution techniques can improve brain tumor detection in MRI scans.
+- Applied **YOLOv11** for object detection on MRI images.
+- Used **Super-Resolution GANs (SRGAN)** to reconstruct higher-resolution images.
+- Designed a baseline-versus-enhanced-image comparison to examine the effect of super-resolution on downstream detection.
+- Worked with labeled MRI data and separate training, validation, and test sets.
+**Areas:** Computer Vision · Deep Learning · Medical Imaging · Object Detection · Generative Models
+
+## 🤖 AI Agents & Intelligent Systems
+
 ### 🎙️ EchoMind — Voice-First AI Thought Journal
-* A five-agent sequential pipeline (synthesis → linking → research → action → calendar) that processes raw voice input into structured insights, action items, and calendar events in real time.
-* OpenAI Realtime API with WebSocket-based PCM audio streaming (24kHz)
-* GPT-4o-mini for agents, Exa for neural search
-* SVG-based UI to visualize thought clusters and relationships
 
-### 📈 Financial Insight Assistant — Conversational AI for Real-Time Finance
-* A RAG-based conversational system achieving 92% ticker recognition and ~87% retrieval relevance using Reddit investor sentiment.
-* ChromaDB + HuggingFace embeddings for semantic retrieval
-* Real-time Q&A interface with historical chat replay
+A multi-agent application that transforms spoken thoughts into structured insights, research, actions, and calendar events.
+- Built a five-agent pipeline: synthesis → linking → research → action → calendar.
+- Integrated real-time voice interaction using WebSockets and the OpenAI Realtime API.
+- Used language models and neural search to process and connect information.
+- Built an interactive visualization of thought clusters and relationships.
+**Areas:** Multi-Agent Systems · Voice AI · Orchestration · Real-Time Applications
 
-## 💼 What I've Shipped in Production
-1) Browser Automation on Applied Epic — Built a bot that logs into Applied Epic, creates statements by company and agency codes, retrieves transaction line items, zeros payable amounts, generates final statements, and fires a webhook with the Master statement number. Chose Playwright over LLM-driven UI interaction because Epic's flaky interface needed deterministic control. Processed 300+ transactions in under 10 minutes — faster than the legacy Blue Sierra solution it replaced. A strategic enterprise customer posted a live statement using it on day one.
-2) LLM-Driven Document Extraction — Automated statement retrieval across 15 legacy insurance carrier portals, eliminating manual login, navigation, and PDF retrieval. Redesigned prompt and validation logic for carrier-specific edge cases causing silent LLM failures. Processed 356K+ tokens of real financial data across 6 production carriers, stabilizing 50+ daily reconciliation workflows.
-3) Self-Healing Automation Pipeline — Designed a fallback system where a vision LLM takes a viewport snapshot and identifies bottlenecks (shifted buttons, hidden CAPTCHAs, rotating element IDs) only when primary Playwright selectors fail — keeping 300-transaction batches under 12 minutes without sacrificing reliability.
+### 📈 [Financial Insight Assistant](https://github.com/ShejalShankar/Finance_Assistant)
+
+A conversational financial research assistant using retrieval-augmented generation.
+- Built semantic retrieval pipelines using **Hugging Face embeddings and ChromaDB**.
+- Integrated investor sentiment and financial information into conversational workflows.
+- Reported 92% ticker recognition and approximately 87% retrieval relevance in project evaluation.
+- Developed a real-time question-answering interface with conversation history.
+**Areas:** NLP · Embeddings · Retrieval-Augmented Generation · Evaluation
+
+## ⚙️ Production Engineering & Reliability
+
+My professional work focuses on designing intelligent systems that behave reliably outside controlled demos.
+
+### Agent Orchestration & Automation
+- Built multi-agent workflows that coordinate model-driven reasoning with deterministic application logic.
+- Developed browser automation for legacy enterprise systems using Playwright and selective vision-model assistance.
+- Implemented validation and recovery mechanisms for unreliable UI interactions.
+- Built document retrieval and extraction workflows spanning multiple external systems.
+
+### Engineering Decisions That Matter
+I care about understanding **where machine learning adds value and where deterministic engineering is the better choice**.
+
+That includes thinking about failure modes, state validation, observability, evaluation, reproducibility, and safe execution—not just whether a model can complete a task once.
+
+## 🔭 What I'm Exploring
+
+I'm increasingly interested in research and engineering problems involving:
+
+- **Embodied intelligence and physical AI**
+- **Computer vision and perception**
+- **World models and learned dynamics**
+- **Reliable autonomous systems**
+- **Machine learning systems and evaluation**
+
+I'm working toward developing deeper expertise in the mathematical, experimental, and systems foundations behind intelligent machines.
 
 ## 📫 Let's Connect
-- 🌐 [linkedin.com/in/shejal28]
-- 📧 shejshankar@gmail.com
-- 📍 Bay Area, CA
 
-"*Most often it's not the LLM itself — it's how you design the systems and workflows around it.*"
+- **GitHub:** https://github.com/ShejalShankar
+- **LinkedIn:** https://www.linkedin.com/in/shejal28
+- **Email:** shejshankar@gmail.com
+- **Location:** San Francisco Bay Area
+
+*“Most often, it's not the LLM itself—it's how you design the systems and workflows around it.”*</\/WritingBlock>
