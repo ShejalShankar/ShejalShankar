@@ -69,4 +69,4 @@ I'm working toward developing deeper expertise in the mathematical, experimental
 - **Email:** shejshankar@gmail.com
 - **Location:** San Francisco Bay Area
 
-*“Most often, it's not the LLM itself—it's how you design the systems and workflows around it.”*</\/WritingBlock>
+*“Most often, it's not the LLM itself—it's how you design the systems and workflows around it.”*
