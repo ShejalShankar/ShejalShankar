@@ -1,5 +1,7 @@
 # 👋 Hi, I am Shejal
-A Full-stack AI Systems Engineer with 2+ years of experience building production AI systems at early-stage startups. I enjoy designing and shipping reliable AI applications, from backend infrastructure and agent orchestration to user-facing experiences that real customers depend on every day.
+I'm a Software & AI Systems Engineer based in the San Francisco Bay Area, with a Master's in Computer Science from The George Washington University. My interests span machine learning, deep learning, computer vision, and intelligent systems. I've explored these areas through projects in medical imaging, retrieval-based AI, and multi-agent applications.
+At present, I work at Alix, an early-stage startup, building a autonomous AI system—from backend services and agent orchestration to reliable automation and user-facing workflows.
+I'm particularly interested in how intelligent systems can move beyond processing information to perceiving, reasoning about, and interacting with the physical world.
 
 ## Accomplishments
 * AI Agents & Pipelines — multi-agent systems, LLM-driven automation, agentic workflows that replace manual processes
